@@ -4,7 +4,6 @@
 
 This repository contains a set of Python scripts that facilitate data scraping and automation tasks related to the National Independent Soccer Association (NISA) website. These scripts gather data from various NISA web pages and automate the process of executing Jupyter notebooks. The repository includes the following scripts:
 
-## Purpose of Scripts
 
 ### Player Statistics Scraper
 - [**player_stats_scraper.ipynb**](player_stats_scraper.ipynb):
